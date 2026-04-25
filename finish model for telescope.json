@@ -1,0 +1,19 @@
+{
+  "ref_dist": 0.05278036232394366,
+  "can_D": 0.47,
+  "can_H": 1.0,
+  "cyl_R": 0.05278036232394366,
+  "cyl_L": 0.15,
+  "cyl_ang": 80.0,
+  "can_rot_x": 0.0,
+  "can_rot_y": -28.0,
+  "dish_a": 0.25,
+  "dish_b": 0.235,
+  "dish_f": 0.4,
+  "offset_ang": 320.0,
+  "feed_dx": 0.05,
+  "feed_dz": -0.2,
+  "show_struct": true,
+  "show_shield": true,
+  "dip_type": "半波长 (λ/2)"
+}
